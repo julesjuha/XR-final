@@ -1,0 +1,5 @@
+https://developers.meta.com/horizon/documentation/unity/meta-xr-acoustic-ray-tracing-unity-getting-started
+
+https://developers.meta.com/horizon/documentation/unity/meta-xr-audio-sdk-unity-spatialize/
+
+https://steamcommunity.com/app/722180/discussions/0/3118147979119525857/
